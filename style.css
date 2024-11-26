@@ -918,9 +918,15 @@ section {
     padding: 1rem 0;
   }
   
-  /* styles */
-  
-  /* pricing */
-
+  .home {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background: url(home-bg2.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 1px;
+    margin-right: 1px;
+  }
 }
 
